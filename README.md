@@ -9,7 +9,7 @@ Households throw out groceries because people forget what they bought or miss th
 
 ## Assignment 2: Requirements Gathering
 
-The requirements backlog is in [BACKLOG.md](BACKLOG.md). It represents the outcome of an initial pass of requirements elicitation and contains:
+The requirements backlog is in [requirements-backlog.md](requirements-backlog.md). It represents the outcome of an initial pass of requirements elicitation and contains:
 
 - 10 functional and 4 non-functional requirements
 - metadata tags on every requirement (MoSCoW priority, release, estimate)
